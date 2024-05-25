@@ -6,6 +6,7 @@ This project is a clone of a JBL product showcase website. It demonstrates vario
 
 - HTML5
 - CSS3
+- SASS
 - Bootstrap Icons (v1.11.3)
 - Google Fonts
 
